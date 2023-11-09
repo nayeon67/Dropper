@@ -7,7 +7,9 @@
 2. 제작자 소개
   *  사진
   *  이름
+    <br>김나연
   *  이메일
+     <br>nayun718939@gmail.com
   *  깃허브(또는 개인사이트)
     <br>https://github.com/nayeon67
   *  주요 활동<br>
