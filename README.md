@@ -8,8 +8,8 @@
   *  사진
   *  이름
   *  이메일
-  *  깃허브(또는 개인사이트)<br>
-    https://github.com/nayeon67
+  *  깃허브(또는 개인사이트)
+    <br>https://github.com/nayeon67
   *  주요 활동<br>
     1.Birthday(5인 프로젝트)
     2.Light Survival(4인 프로젝트)
